@@ -10,7 +10,7 @@
 | Day04 |    / |https://projects.intra.42.fr/projects/piscine-photoshop-day-04 |/|
 | Rush00 |100% |https://projects.intra.42.fr/projects/piscine-photoshop-rush-00 |[Link](https://mega.nz/#F!ZwAlhADR!Sniz_EALcQloRB6Tc9pwig)
 
-### After Effect (Lvl 1.75 -> ??? | 15/04 - 21/04)
+### After Effect (Lvl 1.75 -> ??? | ??/?? - ??/??)
 | Days | Final Mark | Project Link
 | ----- | ---- | ---------------------|
 | Day00 |    / |https://projects.intra.42.fr/projects/piscine-after-effect-day-00
@@ -20,7 +20,7 @@
 | Day04 |    / |https://projects.intra.42.fr/projects/piscine-after-effect-day-04
 | Rush00|    / |https://projects.intra.42.fr/projects/piscine-after-effect-rush-00
 
-### Illustrator (Lvl ??? -> ??? | 17/06 - 23/06)
+### Illustrator (Lvl ??? -> ??? | ??/?? - ??/??)
 | Days | Final Mark | Project Link
 | ----- | ---- | ---------------------|
 | Day00 |    / |https://projects.intra.42.fr/projects/piscine-illustrator-day-00
